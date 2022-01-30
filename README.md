@@ -3,7 +3,7 @@
 ## Everton De Oliveira, Web development student - Front End and Full Stack Technology!
 <div align="center">
   <a href="https://github.com/EvertonDomAme">
-  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=EvertonDomAme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EvertonDomAme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonDomAme&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>

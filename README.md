@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Everton De Oliveira, Web development student - Front End and Full Stack Technology!
+## Everton De Oliveira, Web Developer - Front End and Full Stack Technology!
 <div align="center">
   <a href="https://github.com/EvertonDomAme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonDomAme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

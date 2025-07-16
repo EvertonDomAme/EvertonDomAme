@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Everton De Oliveira, Web Developer - Front End and Full Stack Technology!
+## Everton Oliveira, Back-End Developer.
 <div align="center">
   <a href="https://github.com/EvertonDomAme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonDomAme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,19 +17,11 @@
   <img align="center" alt="Dom-NPM" height="30" width="40" src="https://img.icons8.com/color/48/000000/npm.png"/>
   <hr/>
   
-   
-
 </div>
-  
   ##
- 
 <div> 
-
-  
-
 
   <a href = "mailto:oliveirameloeverton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/everton-de-oliveira-melo-9a0338a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
  
 </div>

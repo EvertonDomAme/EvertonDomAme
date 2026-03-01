@@ -31,6 +31,22 @@ Passionate about building robust back-end systems and always exploring new techn
 
 ---
 
+### 🏆 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer | Date |
+|:---:|---|:---:|:---:|
+| <img height="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png"/> | **Salesforce Certified Platform Developer I** | Salesforce | Dec 2024 |
+| <img height="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/AI-Specialist.png"/> | **Salesforce Certified Agentforce Specialist** | Salesforce | Dec 2024 |
+| <img height="50" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/> | **JavaScript: Understanding the Weird Parts** | Udemy | Oct 2023 |
+
+</div>
+
+> 🔗 Verify Salesforce credentials at [sforce.co/verifycerts](https://sforce.co/verifycerts)
+
+---
+
 ### 🌱 Currently Learning
 
 <!-- Add what you're currently learning here — more updates coming soon! -->
@@ -58,4 +74,3 @@ Passionate about building robust back-end systems and always exploring new techn
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-

@@ -37,9 +37,9 @@ Passionate about building robust back-end systems and always exploring new techn
 
 | Badge | Certification | Issuer | Date |
 |:---:|---|:---:|:---:|
-| <img height="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png"/> | **Salesforce Certified Platform Developer I** | Salesforce | Dec 2024 |
-| <img height="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/AI-Specialist.png"/> | **Salesforce Certified Agentforce Specialist** | Salesforce | Dec 2024 |
-| <img height="50" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" style="background-color:white; padding:4px; border-radius:4px;"/> | **JavaScript: Understanding the Weird Parts** | Udemy | Oct 2023 |
+| <img height="80" src="./assets/platform_dev_badge.png"/> | **Salesforce Certified Platform Developer I** | Salesforce | Dec 2024 |
+| <img height="80" src="./assets/agentforce_badge.png"/> | **Salesforce Certified Agentforce Specialist** | Salesforce | Dec 2024 |
+| <img height="50" src="./assets/udemy_logo_white_bg.png"/> | **JavaScript: Understanding the Weird Parts** | Udemy | Oct 2023 |
 
 </div>
 

@@ -58,7 +58,7 @@ Passionate about building robust back-end systems and always exploring new techn
 
 | Project | Status |
 |---|---|
-| 🌐 Portfolio Website | 🚧 Under Construction |
+| 🌐 Portfolio Website | 🌱 Live & Evolving |
 
 > More projects coming soon — stay tuned!
 

@@ -59,6 +59,7 @@ Passionate about building robust back-end systems and always exploring new techn
 | Project | Status |
 |---|---|
 | 🌐 Portfolio Website | 🌱 Live & Evolving |
+| 📦 InventoryControl SAAS | 🛠️ Work in Progress |
 
 > More projects coming soon — stay tuned!
 

@@ -8,8 +8,8 @@ Passionate about building robust back-end systems and always exploring new techn
 
 <div align="center">
   <a href="https://github.com/EvertonDomAme">
-    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=EvertonDomAme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EvertonDomAme&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://evertondom-github-readme-stats.vercel.app/api?username=EvertonDomAme&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://evertondom-github-readme-stats.vercel.app/api/top-langs/?username=EvertonDomAme&layout=compact&langs_count=8&count_private=true"/>
   </a>
 </div>
 

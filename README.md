@@ -51,6 +51,7 @@ Passionate about building robust back-end systems and always exploring new techn
 
 <!-- Add what you're currently learning here — more updates coming soon! -->
 - 🔵 Salesforce Platform & Development
+- 🔵 JAVA
 
 ---
 
